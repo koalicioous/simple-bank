@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aoohan/go-grpc/util"
+	"github.com/aoohan/simple-bank/util"
 	"github.com/stretchr/testify/require"
 )
 

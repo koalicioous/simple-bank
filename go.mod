@@ -1,4 +1,4 @@
-module github.com/aoohan/go-grpc
+module github.com/aoohan/simple-bank
 
 go 1.21.6
 
